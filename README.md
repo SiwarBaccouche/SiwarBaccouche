@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @SiwarBaccouche
+- 🎓 I'm graduated in Telecommunication technologies and currently software engineering student
+- 💻 Development (web/ mobile),Telecommunication, IoT...
+- 👀 I’m interested in Mobile development, Flutter, Automotive apps.
+- 🌱 I’m currently learning Flutter 
+- 💞️ I’m looking to collaborate on Flutter projects or any development project
+- 📫 siwarbaccouche.isitc@gmail.com
